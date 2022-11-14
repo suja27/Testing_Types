@@ -4,5 +4,5 @@
 4.  Etl testing
 5. Security Testing
  Explain testing concepts
- 1. video through explaning concepts
+ 1.  hd quality video through explaning concepts
  2. Audio through explaning concepts
